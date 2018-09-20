@@ -1,4 +1,4 @@
-# Betbright challenge [![Build Status](https://travis-ci.org/pablopalacios/betbright.svg?branch=master)](https://travis-ci.org/pablopalacios/betbright) [![Coverage Status](https://coveralls.io/repos/github/pablopalacios/betbright/badge.svg?branch=initial-setup)](https://coveralls.io/github/pablopalacios/betbright?branch=initial-setup)
+# Betbright challenge [![Build Status](https://travis-ci.org/pablopalacios/betbright.svg?branch=master)](https://travis-ci.org/pablopalacios/betbright) [![Coverage Status](https://coveralls.io/repos/github/pablopalacios/betbright/badge.svg?branch=master)](https://coveralls.io/github/pablopalacios/betbright?branch=master)
 
 ## Tests
 
