@@ -10,6 +10,7 @@ coveralls = "*"
 pytest = "*"
 pytest-cov = "*"
 "pytest-flake8" = "*"
+freezegun = "*"
 
 [requires]
 python_version = "2.7"
