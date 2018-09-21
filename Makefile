@@ -4,3 +4,6 @@ init:
 
 test:
 	pipenv run pytest --cov=betbright --cov-report term-missing --flake8 tests
+
+fib:
+	pipenv run python fibonnaci.py

@@ -14,3 +14,10 @@ etc...). I made a Makefile to make it easier, so all you have to do is:
 To run the tests you can also use make:
 
     make test
+
+## LRU challenge
+
+I've made a small module comparing time execution of fibonacci with
+and without cache. To run it:
+
+    make fib
