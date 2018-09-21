@@ -3,4 +3,4 @@ init:
 	pipenv install --dev
 
 test:
-	pipenv run pytest --cov=betbright --flake8 tests
+	pipenv run pytest --cov=betbright --cov-report term-missing --flake8 tests
